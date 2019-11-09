@@ -1,1 +1,1 @@
-# CS-170-intro-to-AI
+# intro-to-AI
