@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/dim314159/School/UCR/CS/Programming/New/Nearest_neighbor/build",
+  "command": "/usr/bin/c++     -g   -o CMakeFiles/nearest_neighbor.dir/main.cpp.o -c /home/dim314159/School/UCR/CS/Programming/New/Nearest_neighbor/main.cpp",
+  "file": "/home/dim314159/School/UCR/CS/Programming/New/Nearest_neighbor/main.cpp"
+},
+{
+  "directory": "/home/dim314159/School/UCR/CS/Programming/New/Nearest_neighbor/build",
+  "command": "/usr/bin/c++     -g   -o CMakeFiles/nearest_neighbor.dir/search.cpp.o -c /home/dim314159/School/UCR/CS/Programming/New/Nearest_neighbor/search.cpp",
+  "file": "/home/dim314159/School/UCR/CS/Programming/New/Nearest_neighbor/search.cpp"
+}
+]

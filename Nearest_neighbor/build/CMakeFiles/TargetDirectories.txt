@@ -1,0 +1,7 @@
+/home/dim314159/School/UCR/CS/Programming/New/Nearest_neighbor/build/CMakeFiles/install/strip.dir
+/home/dim314159/School/UCR/CS/Programming/New/Nearest_neighbor/build/CMakeFiles/install/local.dir
+/home/dim314159/School/UCR/CS/Programming/New/Nearest_neighbor/build/CMakeFiles/nearest_neighbor.dir
+/home/dim314159/School/UCR/CS/Programming/New/Nearest_neighbor/build/CMakeFiles/edit_cache.dir
+/home/dim314159/School/UCR/CS/Programming/New/Nearest_neighbor/build/CMakeFiles/rebuild_cache.dir
+/home/dim314159/School/UCR/CS/Programming/New/Nearest_neighbor/build/CMakeFiles/install.dir
+/home/dim314159/School/UCR/CS/Programming/New/Nearest_neighbor/build/CMakeFiles/list_install_components.dir

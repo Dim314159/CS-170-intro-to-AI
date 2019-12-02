@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/nearest_neighbor.dir/main.cpp.o CMakeFiles/nearest_neighbor.dir/search.cpp.o  -o nearest_neighbor -rdynamic 

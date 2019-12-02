@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dim314159/School/UCR/CS/Programming/New/Nearest_neighbor/main.cpp
+search.h
+/home/dim314159/School/UCR/CS/Programming/New/Nearest_neighbor/search.h
+
+/home/dim314159/School/UCR/CS/Programming/New/Nearest_neighbor/search.cpp
+search.h
+/home/dim314159/School/UCR/CS/Programming/New/Nearest_neighbor/search.h
+
+/home/dim314159/School/UCR/CS/Programming/New/Nearest_neighbor/search.h
+iostream
+-
+string
+-
+fstream
+-
+vector
+-
+cmath
+-
+limits
+-
+sstream
+-
+set
+-
+
